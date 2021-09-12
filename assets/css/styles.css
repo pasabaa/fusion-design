@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    color: #2E282A;
+}
+.bg-red {
+    background: #FF3C38;
+}
+
+.bg-indigo {
+    background:#6610f2;
+}
+
+.text-indigo {
+    color: #6610f2;
+}
+
+.text-green {
+    color: #90FF98;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
