@@ -32,7 +32,7 @@
 						<a class="nav-link" href="<?php echo base_url();?>proyectos/">Proyectos</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="<?php echo base_url();?>">Nosotros</a>
+						<a class="nav-link" href="<?php echo base_url();?>nosotros/">Nosotros</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="<?php echo base_url();?>">Contacto</a>
